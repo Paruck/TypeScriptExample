@@ -1,0 +1,12 @@
+{
+  "name": "type-script-example-project",
+  "version": "0.0.0",
+  "description": "TypeScript Example Project",
+  "main": "app.js",
+  "author": {
+    "name": "emi_s"
+  },
+  "devDependencies": {
+    "@types/node": "^6.0.87"
+  }
+}
